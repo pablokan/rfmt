@@ -1,10 +1,9 @@
 # Flask + ReactJS + MySQL Todo List
 
-![ReactJS Todo](../screenshots/react-todo.PNG)
-#
-![ReactJS Todo](../screenshots/react-todo2.PNG)
+```
+npm install
+pip install -r requirements.txt
+python mysql.py (run at 5000)
+npm start (run at 3000)
+```
 
-
-## Setup
-
-Manually clone the repo and then run `npm install`.
